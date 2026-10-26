@@ -14,7 +14,6 @@ I'm a Computer Science student specializing in Cybersecurity and a Frontend Deve
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=githubaidiyoucef&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=githubaidiyoucef&icon=5&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
